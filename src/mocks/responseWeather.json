@@ -1,0 +1,52 @@
+{
+	"coord": {
+		"lon": -64.1811,
+		"lat": -31.4135
+	},
+	"weather": [
+		{
+			"id": 501,
+			"main": "Rain",
+			"description": "moderate rain",
+			"icon": "10d"
+		},
+		{
+			"id": 211,
+			"main": "Thunderstorm",
+			"description": "thunderstorm",
+			"icon": "11d"
+		}
+	],
+	"base": "stations",
+	"main": {
+		"temp": 306.43,
+		"feels_like": 311.95,
+		"temp_min": 298.28,
+		"temp_max": 307.18,
+		"pressure": 986,
+		"humidity": 56
+	},
+	"visibility": 10000,
+	"wind": {
+		"speed": 5.14,
+		"deg": 350
+	},
+	"rain": {
+		"1h": 1.54
+	},
+	"clouds": {
+		"all": 40
+	},
+	"dt": 1707413984,
+	"sys": {
+		"type": 2,
+		"id": 2074146,
+		"country": "AR",
+		"sunrise": 1707385732,
+		"sunset": 1707433979
+	},
+	"timezone": -10800,
+	"id": 3860259,
+	"name": "Córdoba",
+	"cod": 200
+}

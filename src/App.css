@@ -1,0 +1,55 @@
+.page{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(130, 124, 124);
+    margin: auto;
+    margin: auto 200px;
+    margin-top: 10%;
+    border-radius: 30px;
+}
+
+.title{
+    font-size: 40px;
+}
+form{
+    display: flex;
+    flex-direction: row;
+}
+
+h1{
+    text-align: center;
+    justify-content: center;
+}
+
+.data{
+    display: flex;
+}
+
+.temp{
+    font-size: 90px;
+}
+
+.city{
+    text-align: left;
+    font-size: 40px;
+}
+
+.slide{
+    display: flex;
+    flex-direction: row;
+}
+
+.robot{
+    display: block;
+    margin: auto;
+    margin-top: -100px
+}
+
+.cat{
+    margin: auto;
+    margin-bottom: 10px;
+    display: block;
+}
+/*style for button slider*/
+
