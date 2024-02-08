@@ -1,4 +1,4 @@
-const API_KEY = 'f3bba81eb4a58b948a5169e032aa981e'
+import {API_KEY} from './apikey'
 
 export const fetchWeather = async ({ search }) => {
 
